@@ -25,14 +25,6 @@ To create an end-to-end HR dashboard that enables stakeholders to:
 - **Data Modeling** – using Tableau Relationships
 - **Calculated Fields & Parameters** – for custom logic and interactivity
 
-## 📁 Project Structure
-
-HR-Analytics-Dashboard/
-├── Dataset/ # Raw Excel HR data
-├── Screenshots/ # Dashboard preview images
-├── HR_Analytics_Dashboard.twbx # Tableau workbook file
-└── README.md # Project documentation
-
 
 Project by: Naman Agrawal
 
