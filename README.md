@@ -26,6 +26,10 @@ To create an end-to-end HR dashboard that enables stakeholders to:
 - **Calculated Fields & Parameters** – for custom logic and interactivity
 
 
-Project by: Naman Agrawal
+## 👤 Project By
+
+### **Naman Agrawal**
+
+[🔗 LinkedIn Profile](https://www.linkedin.com/in/naman-agrawal-8671aa27b/)
 
 Feel free to reach out on LinkedIn for collaboration or feedback.
