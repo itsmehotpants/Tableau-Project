@@ -21,7 +21,7 @@ To create an end-to-end HR dashboard that enables stakeholders to:
 
 - **Tableau** – for data modeling and dashboard design
 - **MS Excel** – as the data source
-- **SQL** (optional) – for preprocessing data (if needed)
+- **SQL**  – for preprocessing data 
 - **Data Modeling** – using Tableau Relationships
 - **Calculated Fields & Parameters** – for custom logic and interactivity
 
